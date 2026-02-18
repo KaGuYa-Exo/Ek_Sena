@@ -1,9 +1,15 @@
 [
     {
-        "device_id": "7a779607b1c2f009",
+        "device_id": "7a779607b1c2f007",
         "key": "key12345",
         "expirydate": "31-12-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "7a779607b1c2f099",
+        "key": "key12345",
+        "expirydate": "15-06-2026",
+        "Allowoffline": false
     },
     {
         "device_id": "7a779607b1c2f009",
